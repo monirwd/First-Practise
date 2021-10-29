@@ -1,0 +1,133 @@
+/*--for ipad--*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+
+.service-item {
+	margin: 30px 0;
+}
+
+.box img {
+	height: 300px;
+}
+
+.partner-image img {
+	width: 100%;
+}
+
+.premium,
+.basic {
+	margin: 40px 0;
+}
+
+.speacialize-upper span,
+.news-upper span,
+.partner-cont span,
+.doctor-upper span,
+.testimonial-cont span,
+.health span  {
+	max-width: 300px;
+}
+
+.bdr span {
+	width: 660px;
+}
+
+.bdr span:after{
+	width: 620px;
+}
+
+.bdr .cancer:after {
+	width: 560px;
+}
+
+.bdr .covid:after {
+	width: 600px;
+}
+
+.bdr .heart:after {
+	width: 520px;
+}
+
+.contact-form input {
+	width: 98%;
+}
+
+.footer-cont {
+	margin-bottom: 20px;
+}
+
+}
+
+/*--for mobile--*/
+@media screen and (max-width: 767px) {
+
+
+.header-right {
+	margin-top: 15px;
+}
+
+.service-item {
+	margin: 30px 0;
+}
+
+.banner-area {
+	padding: 100px 0 80px;
+}
+
+.news-image {
+	max-width: 300px;
+}
+
+.partner-image {
+	padding: 0;
+	background-color: transparent;
+	text-align: center;
+}
+
+.pt-rt-icon {
+	margin-top: 10px;
+}
+
+.premium {
+	margin: 70px 0;
+}
+
+.speacialize-upper span,
+.news-upper span,
+.partner-cont span,
+.doctor-upper span,
+.testimonial-cont span,
+.health span  {
+	max-width: 200px;
+}
+
+.bdr span {
+	width: 250px;
+}
+
+.bdr span:after{
+	width: 220px;
+}
+
+.bdr .cancer:after {
+	width: 170px;
+}
+
+.bdr .covid:after {
+	width: 190px;
+}
+
+.bdr .heart:after {
+	width: 150px;
+}
+
+.contact-form input {
+	width: 98%;
+}
+
+.footer-cont {
+	margin-bottom: 20px;
+}
+
+
+}
